@@ -1,0 +1,16 @@
+C:\cursos\Havan\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.exe
+C:\cursos\Havan\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.deps.json
+C:\cursos\Havan\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.json
+C:\cursos\Havan\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.dev.json
+C:\cursos\Havan\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.dll
+C:\cursos\Havan\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ref\ContaBancaria.dll
+C:\cursos\Havan\ContaBancaria\ContaBancaria\bin\Debug\net5.0\ContaBancaria.pdb
+C:\cursos\Havan\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.AssemblyReference.cache
+C:\cursos\Havan\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursos\Havan\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\cursos\Havan\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfo.cs
+C:\cursos\Havan\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\cursos\Havan\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.dll
+C:\cursos\Havan\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ref\ContaBancaria.dll
+C:\cursos\Havan\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.pdb
+C:\cursos\Havan\ContaBancaria\ContaBancaria\obj\Debug\net5.0\ContaBancaria.genruntimeconfig.cache
